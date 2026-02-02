@@ -1,0 +1,4 @@
+# Blog: MongoDB & Cassandra migration
+flask>=2.3.0
+pymongo>=4.5.0
+cassandra-driver>=3.28.0
